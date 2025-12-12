@@ -1,8 +1,8 @@
-<section class="py-24 bg-white">
+ProductCo<section class="py-24 bg-white">
   <div class="container-custom">
     <div class="text-center mb-16">
-        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Fast growing companies love Plain</p>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Take their word for it</h2>
+        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Product teams love Formhouse</p>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Hear from our users</h2>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
@@ -12,15 +12,15 @@
                 <div class="text-2xl font-serif font-bold mb-12">granola|</div>
                 <div class="text-4xl text-white/20 absolute top-10 left-10 font-serif">“</div>
                 <p class="text-xl md:text-2xl font-medium leading-relaxed mb-10 relative z-10">
-                    We chose Plain because it was the right fit for our fast-moving team to get going quickly. It's helped us stay organized & responsive as we 100x-ed our users, and we're confident it will keep supporting us as we continue to grow.
+                    Formhouse transformed how we collect user feedback. What used to take hours of manual data cleaning now happens automatically. We went from 2% survey response rates to rich, structured insights from every form submission.
                 </p>
                 <div class="flex items-center gap-4">
                     <div class="w-12 h-12 rounded bg-gray-700 overflow-hidden">
-                        <img src="https://ui-avatars.com/api/?name=Jo+Barrow&background=random" alt="Jo Barrow" />
+                        <img src="https://ui-avatars.com/api/?name=Jo+Barrow&background=random" alt="Sarah Chen" />
                     </div>
                     <div>
                         <p class="font-bold text-sm">Jo Barrow</p>
-                        <p class="text-[10px] font-bold tracking-widest text-white/60 uppercase">Chief of Staff</p>
+                        <p class="text-[10px] font-bold tracking-widest text-white/60 uppercase">Head of Product</p>
                     </div>
                 </div>
             </div>

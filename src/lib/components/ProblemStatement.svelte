@@ -1,30 +1,24 @@
 <section class="py-24 md:py-32 bg-white">
   <div class="container-custom max-w-4xl text-center">
     <h2 class="text-4xl md:text-6xl font-bold tracking-tight text-gray-900 mb-8 leading-tight">
-      Customer 
+      Form data 
       <span class="inline-flex align-middle mx-1 p-1 bg-orange-100 rounded-lg transform -rotate-6">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" class="text-orange-500"><path d="M12 2L15 9L22 12L15 15L12 22L9 15L2 12L9 9L12 2Z" fill="currentColor"/></svg>
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-orange-500"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
       </span>
-      sprawl is <br class="hidden md:block" />
-      slowing 
-      <span class="inline-flex align-middle mx-1 p-1 bg-green-100 rounded-lg transform rotate-3">
-         <svg width="32" height="32" viewBox="0 0 24 24" fill="none" class="text-green-500"><path d="M4 12L9 17L20 6" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      chaos is <br class="hidden md:block" />
+      killing your 
+      <span class="inline-flex align-middle mx-1 p-1 bg-[oklch(0.979_0.021_166.113)] rounded-lg transform rotate-3">
+         <svg width="32" height="32" viewBox="0 0 24 24" fill="none" class="text-plain-green"><rect x="3" y="3" width="18" height="18" rx="2" fill="currentColor" opacity="0.2"/><path d="M9 11l3 3L22 4" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </span>
-      you 
-      <span class="inline-flex align-middle mx-1 -space-x-2">
-        <span class="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center border-2 border-white z-30 text-blue-600 text-[10px] font-bold">S</span>
-        <span class="w-8 h-8 rounded-full bg-purple-100 flex items-center justify-center border-2 border-white z-20 text-purple-600 text-[10px] font-bold">T</span>
-        <span class="w-8 h-8 rounded-full bg-yellow-100 flex items-center justify-center border-2 border-white z-10 text-yellow-600 text-[10px] font-bold">E</span>
-      </span>
-      down
+      insights
     </h2>
     
     <p class="text-lg md:text-xl text-gray-500 mb-8 max-w-2xl mx-auto leading-relaxed">
-      Your customers are talking to you in Slack, MS Teams, email, and inside your product – and your team is jumping between all those places. Insights are scattered, and each “new support tool” imposes their opinions on you.
+      Form submissions are scattered across Typeform, Google Forms, Webflow, and email. Your product team is drowning in unstructured data, missing critical user feedback while surveys collect dust with 2% response rates.
     </p>
     
     <p class="text-sm font-bold text-gray-900 uppercase tracking-widest">
-      But what if it was different?
+      There's a better way?
     </p>
   </div>
 </section>
